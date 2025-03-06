@@ -1,49 +1,48 @@
-# AI-based-Mental-Health-Chatbot
+AI-Based Mental Health Chatbot
+This project was developed during my internship at Flaunch, organized by the 1M1B Association.
 
-This is my internship project conducted by flaunch organized by 1M1B association
+Objective
+The chatbot is designed to educate users on mental health while providing interactive features to enhance mental well-being.
 
-AIM: This is built to educate users with the correct knowledge of mental health and also provide some functions to improve mental health 
+<sub>Duration: Approximately 1.5 months | Final Result: A+ </sub>
 
-<sub>Duration Taken: Roughly 1 and a half months, Final Result: A+</sub>
+Technologies Used
+Frontend: Python
+Backend: Python (Flask)
+Database: MySQL
+Installation
+Clone the repository:
 
-## Languages/Components Used
+bash
+Copy
+Edit
+git clone <repository_url>
+Note: Configure the application settings in config.py, ensuring the database and URI are correctly set up.
 
-- Frontend: Python
-- Backend: Python
-- Database: MySQL
+Install dependencies:
 
-## Installation
-
-```
-git clone
-```
-Note: Configure your application in the `config.py` and database and make sure the database and URI are set up correctly
-```
+bash
+Copy
+Edit
 pip install -r requirements.txt
-```
+Run the application:
 
-```
+bash
+Copy
+Edit
 python run.py
-```
-
-## Functions
-- Register, Login, and Continue as a Guest 
-- Chat with the chatbot
-- Select a specific topic
-- Conduct a mental health test
-- Mindfulness Exercises
-- Journalling for manual tracking
-- SOS Hotline 
-- Edit profile
-
-## Technical Domain
-- Create using Python
-- Flask for the Web
-- Bootstrap for the UI
-- TensorFlow and NLTK for the machine learning model
-- Other Library like Flask-login, Flask-bcrypt
-
-## Screenshots
-
-
-
+Key Features
+User authentication (Register, Login, or Continue as Guest)
+AI-powered chatbot for mental health discussions
+Topic selection for guided learning
+Mental health self-assessment test
+Mindfulness exercises
+Journaling for personal tracking
+SOS hotline for emergencies
+User profile management
+Technical Stack
+Developed using Python
+Flask for backend web development
+Bootstrap for a responsive UI
+TensorFlow & NLTK for the chatbot’s machine learning model
+Additional libraries: Flask-Login, Flask-Bcrypt, and more
