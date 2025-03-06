@@ -48,7 +48,7 @@ Here’s a more polished version of the feature list:
 
 
 ## Screenshots
-![image](https://drive.google.com/file/d/1QG4UcwZMXQ992iJRdZ1s_1_bgAIiKcy3/view?usp=drive_link)
+![image](https://drive.google.com/file/d/1QG4UcwZMXQ992iJRdZ1s_1_bgAIiKcy3/view?usp=sharing)
 
 ![image](https://drive.google.com/file/d/17YO7CGHxwhWlnWJ4l2koG4TqoRyUBYFV/view?usp=drive_link)
 
