@@ -1,6 +1,6 @@
 # AI-based-Mental-Health-Chatbot
 
-This is my final year project at my university
+This is my internship project at flaunch conducted by 1M1B
 
 AIM: The aim of the mental health chatbot is to provide users with accurate mental health education, support emotional well-being, and promote self-care. It offers interactive conversations, mindfulness exercises, self-assessments, and journaling to help users manage stress, track their emotions, and access essential resources while ensuring privacy and accessibility.
 
