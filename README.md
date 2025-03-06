@@ -1,8 +1,8 @@
-# Python-Mental-Health-Chatbot(Web-based)
+# AI-based-Mental-Health-Chatbot
 
-This is my final year project at my university
+This is my internship project conducted by flaunch organized by 1M1B association
 
-AIM: This is built to educate users with the correct knowledge of mental health and also provide some functions to improve mental health ***(NOT DIAGNOSIS)***.
+AIM: This is built to educate users with the correct knowledge of mental health and also provide some functions to improve mental health 
 
 <sub>Duration Taken: Roughly 1 and a half months, Final Result: A+</sub>
 
@@ -27,22 +27,23 @@ python run.py
 ```
 
 ## Functions
-- Register, Login, and Continue as a Guest (For privacy reasons)
+- Register, Login, and Continue as a Guest 
 - Chat with the chatbot
 - Select a specific topic
 - Conduct a mental health test
 - Mindfulness Exercises
 - Journalling for manual tracking
-- SOS Hotline (Only Malaysia)
+- SOS Hotline 
 - Edit profile
 
 ## Technical Domain
 - Create using Python
 - Flask for the Web
-- SQLAlchemy for Database
 - Bootstrap for the UI
 - TensorFlow and NLTK for the machine learning model
 - Other Library like Flask-login, Flask-bcrypt
 
 ## Screenshots
+
+
 
