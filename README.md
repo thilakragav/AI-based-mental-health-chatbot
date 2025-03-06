@@ -46,18 +46,3 @@ Here’s a more polished version of the feature list:
 -Bootstrap for a responsive and user-friendly UI
 -TensorFlow & NLTK for the chatbot’s machine learning model
 
-
-## Screenshots
-![image](https://drive.google.com/file/d/1QG4UcwZMXQ992iJRdZ1s_1_bgAIiKcy3/view?usp=sharing)
-
-![image](https://drive.google.com/file/d/17YO7CGHxwhWlnWJ4l2koG4TqoRyUBYFV/view?usp=drive_link)
-
-![image](https://drive.google.com/file/d/1LCTFDN-_FwCWGdBjlOrONMZ1eJ5FHUcV/view?usp=drive_link)
-
-![image](https://drive.google.com/file/d/1PR70R5RsqQLwL3gcMUHebr78M3usJiQl/view?usp=drive_link)
-
-![image](https://drive.google.com/file/d/1EnYWJ0gOR13xhTjc4X9UZDg5SVMSYFyv/view?usp=drive_link)
-
-![image](https://drive.google.com/file/d/1_SeX6rwf4B-4hquKQyKSSSSQ_NstEjnz/view?usp=drive_link)
-
-![image](https://drive.google.com/file/d/1EtXOqgdI5aTDhmsYszX_uYbgMMCE3Y_5/view?usp=drive_link)
