@@ -1,4 +1,4 @@
-AI-Based Mental Health Chatbot
+#AI-Based Mental Health Chatbot
 This project was developed during my internship at Flaunch, organized by the 1M1B Association.
 
 Objective
